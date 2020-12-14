@@ -3,7 +3,7 @@ Me chamo **Antonio Gilmar**, sou estudante do curso técnico integrado em inform
 
 :computer: Atualmente trabalho como **Desenvolvedor Web Full-Stack** (freelancer) utilizando **Laravel (PHP)** no back-end.
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilmarodp&show_icons=true&theme=light)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilmarodp&show_icons=true&theme=dark)
 
 <a target="_blank" href="https://www.linkedin.com/in/gilmarodp/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg" />
