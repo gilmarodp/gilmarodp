@@ -1,5 +1,5 @@
 ### Olá, mundo! :wave:
-Me chamo **Antonio Gilmar**, sou estudante do curso técnico integrado em informática no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - _Campus_ Fortaleza**, no momento me encontro cursando o quarto semestre do curso (4/8).
+Me chamo **Antonio Gilmar**, sou estudante do curso técnico integrado em informática no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - _Campus_ Fortaleza**, no momento me encontro cursando o quarto semestre do curso (5/8).
 
 :computer: Atualmente trabalho como **Desenvolvedor Web Full-Stack** (freelancer) utilizando **Laravel (PHP)** no back-end.
 
