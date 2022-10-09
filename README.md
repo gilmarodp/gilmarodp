@@ -1,7 +1,7 @@
 ### Olá, mundo! :wave:
 Me chamo **Antonio Gilmar**, sou estudante do curso técnico integrado em informática no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - _Campus_ Fortaleza**, no momento me encontro cursando o quarto semestre do curso (8/8).
 
-:computer: Atualmente trabalho como **Desenvolvedor Web Full-Stack** (freelancer) utilizando **Laravel (PHP)** no back-end.
+:computer: Atualmente trabalho como **Técnico em Desenvolvimento de Software** na <a href="https://github.com/Nucleus-Inc" target="_blank">Nucleus.eti</a>.
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilmarodp&show_icons=true&theme=dark)
 
