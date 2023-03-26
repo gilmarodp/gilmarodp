@@ -1,5 +1,5 @@
 ### Olá, mundo! :wave:
-Me chamo **Antonio Gilmar**, sou estudante do curso técnico integrado em informática no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - _Campus_ Fortaleza**, no momento me encontro cursando o quarto semestre do curso (8/8).
+Me chamo **Antonio Gilmar**, sou **Técnico em Informática** pelo **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - _Campus_ Fortaleza**. Estou cursando cursando **Bacharelado em Estatística** pela **Universidade Federal do Ceará (UFC) - _Campus_ Fortaleza**.
 
 :computer: Atualmente trabalho como **Técnico em Desenvolvimento de Software** na <a href="https://github.com/Nucleus-Inc" target="_blank">Nucleus.eti</a>.
 
